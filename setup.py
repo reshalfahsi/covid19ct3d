@@ -39,7 +39,6 @@ setup(
     install_requires=['numpy',
                       'ptflops',
                       'torch',
-                      'opencv-python',
                       'nibabel',
                       'scipy',
                       'matplotlib',
