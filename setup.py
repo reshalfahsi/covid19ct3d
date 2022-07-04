@@ -44,7 +44,7 @@ setup(
                       'nibabel',
                       'scipy',
                       'matplotlib',
-                      'moviepy',
+                      # 'moviepy',
                       'typer'],
     include_package_data=True,
     classifiers=[
