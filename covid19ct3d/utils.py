@@ -84,7 +84,7 @@ def plot_data(data_raw):
     plt.subplots_adjust(wspace=0, hspace=0, left=0, right=1, bottom=0, top=1)
     plt.savefig('data.png')
 
-    from moviepy.editor import *
+    from moviepy.editor import ImageSequenceClip
 
     data = data_raw * 255.0
     data = [np.dstack([data[:, :, idx].astype(np.uint8)]*3) for idx in range(depth)]
