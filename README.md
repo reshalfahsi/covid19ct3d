@@ -8,9 +8,9 @@
 
 
 <div align="center">
-An example of COVID-19 infected lung 3D CT image.
+<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/master/assets/thorax.gif" width="400">
 
-<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/master/assets/thorax.gif" width="1000">
+An example of COVID-19 infected lung 3D CT image.
 </div>
 
 
