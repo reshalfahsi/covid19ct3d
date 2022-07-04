@@ -6,10 +6,14 @@
   Tutorial on COVID-19 Classification from 3D CT Images.
 </h4>
 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/main/assets/thorax.gif">
+</div>
+
+
 <div align="center">
 An example of COVID-19 infected lung 3D CT image.
-
-<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/main/assets/thorax.gif" width="400">
 </div>
 
 
