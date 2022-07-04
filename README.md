@@ -38,8 +38,8 @@ pip install .
 import covid19ct3d
   
 # set training parameters
-epoch = 50  # epoch number
-lr = 1e-4  # learning rate
+epoch = 30  # epoch number
+lr = 1e-2  # learning rate
 augmentation = True # choose to do data augmentation
 batchsize = 2 # training batch size
 trainsize = "128 128 64" # training dataset size
@@ -106,8 +106,8 @@ covid19ct3d.info()
 
 ```bash
 covid19ct3d train \
---epoch 50 \
---lr 1e-4 \
+--epoch 30 \
+--lr 1e-2 \
 --batchsize 2 \
 --trainsize "128 128 64" \
 --train_path "./dataset" \

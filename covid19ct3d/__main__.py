@@ -59,9 +59,7 @@ def train(epoch: int = typer.Option(50, "--epoch", help='epoch number'),
 
     params = model.parameters()
 
-    optimizer = torch.optim.Adadelta(params,
-                                     lr=lr,
-                                     weight_decay=1e-8)
+    optimizer = torch.optim.Adadelta(params, lr=lr)
 
     logging.info(optimizer)
     print(optimizer)
