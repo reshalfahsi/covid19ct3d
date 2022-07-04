@@ -9,7 +9,7 @@
 <div align="center">
 An example of COVID-19 infected lung 3D CT image.
 
-<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/main/assets/thorax.gif">
+<img src="https://raw.githubusercontent.com/reshalfahsi/covid19ct3d/main/assets/thorax.gif" width="1000">
 </div>
 
 
@@ -145,6 +145,6 @@ covid19ct3d info
 
 ## <div align="center">Credits</div>
 
-<br>
-- [A tutorial notebook on 3D image classification](https://github.com/hasibzunair/3D-image-classification-tutorial)
-<br>
+<ul>
+  <li><a href="https://github.com/hasibzunair/3D-image-classification-tutorial">A tutorial notebook on 3D image classification</a></li>
+</ul>
