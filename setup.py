@@ -62,6 +62,6 @@ setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Scientific/Engineering :: Image Recognition",
     ],
-    keywords="machine-learning, deep-learning, ml, pytorch, image-segmentation, vision, medical-image-segmentation",
+    keywords="machine-learning, deep-learning, ml, pytorch, vision, medical-imaging",
     entry_points={"console_scripts": ["covid19ct3d=covid19ct3d.__main__:app"]},
 )
